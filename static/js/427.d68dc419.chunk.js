@@ -1,0 +1,2 @@
+(this.webpackJsonpcodeitout=this.webpackJsonpcodeitout||[]).push([[427],{586:function(t,e){!function(t){var e=t.util.clone(t.languages.typescript);t.languages.tsx=t.languages.extend("jsx",e);var a=t.languages.tsx.tag;a.pattern=RegExp("(^|[^\\w$]|(?=</))(?:"+a.pattern.source+")",a.pattern.flags),a.lookbehind=!0}(Prism)}}]);
+//# sourceMappingURL=427.d68dc419.chunk.js.map
